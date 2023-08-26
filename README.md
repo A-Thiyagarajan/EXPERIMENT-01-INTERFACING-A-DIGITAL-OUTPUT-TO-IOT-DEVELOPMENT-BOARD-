@@ -170,10 +170,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output  :
  
- ![iot_e1-2](https://github.com/A-Thiyagarajan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118707693/658fc43e-ab69-4b56-ad30-593fe14c6ce8)
+![exp1-pic1](https://github.com/A-Thiyagarajan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118707693/6ddfcbd0-81bd-49ad-8611-b5e38473d2e2)
 
 
-![iot_e1-1](https://github.com/A-Thiyagarajan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118707693/169e24ad-f8df-4d6c-bba9-902247ecf208)
+![exp1-pic2](https://github.com/A-Thiyagarajan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118707693/6be0851a-6a8f-4dcd-88e1-4c3bdf6e5dce)
+
+
 
  
  
